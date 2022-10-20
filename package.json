@@ -1,0 +1,7 @@
+{
+  "name": "single-package-monorepo",
+  "scripts": {
+    "build": "echo hihii"
+  },
+  "packageManager": "npm@7.24.2"
+}
